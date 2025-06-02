@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanbaghdadi&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanbaghdadi" /> </p>
 
-- 👨‍💻 All of my projects are available at [[syncjourney.com](https://syncjourney.com/)](syncjourney.com)
+- 👨‍💻 All of my projects are available at [https://syncjourney.com](syncjourney.com)
 
 - 💬 Ask me about **funnel, automation, CRM & website.**
 
